@@ -1,0 +1,101 @@
+Student_ID,Name,Math,Science,English,Total,Grade
+1,Rosalinde Linstead,38,47,61,161,executive
+2,Constantina Rulf,73,96,92,285,complexity
+3,Dorris Pencot,94,90,95,10,benchmark
+4,Billy Senett,51,7,86,271,Pre-emptive
+5,Lulu Huson,77,56,3,218,Pre-emptive
+6,Marcella Witchell,12,83,16,204,methodology
+7,Dinny Coveley,44,57,5,297,dynamic
+8,Shirleen Hauch,20,63,12,35,Balanced
+9,Kasey Wilcox,40,58,75,253,Triple-buffered
+10,Hilary O' Brian,97,21,5,66,zero administration
+11,Suzy Valerio,84,94,22,291,global
+12,Alf Gadney,94,43,64,16,stable
+13,Dorris Duker,58,17,82,15,Mandatory
+14,Cedric Ohm,20,51,71,79,Customizable
+15,Evonne Gristwood,62,11,43,269,projection
+16,Mallory Clowney,79,81,93,244,contingency
+17,Elna Weich,58,1,66,99,national
+18,Lydia Lerwill,64,48,2,105,Robust
+19,Leonhard Balsdon,73,50,23,90,pricing structure
+20,Borden Maw,28,10,24,164,5th generation
+21,Mariejeanne Polden,59,34,31,163,attitude
+22,Tatiania Fitzsimon,76,96,0,229,Horizontal
+23,Nata Vanyushkin,65,44,83,54,maximized
+24,Kain Del Monte,53,99,32,35,Function-based
+25,Bunni Smithers,77,6,96,11,asynchronous
+26,Chaunce Hallet,2,48,9,208,reciprocal
+27,Micky Strass,30,46,78,161,initiative
+28,Sunny Dudenie,84,3,4,189,interactive
+29,Jordain Abeau,7,30,9,112,extranet
+30,Florette Farans,57,88,99,158,directional
+31,Lynnett Dagwell,23,34,49,293,model
+32,Loree Grisdale,36,32,78,39,groupware
+33,Brennan Burg,64,64,19,228,system engine
+34,Melony Caccavale,28,25,33,210,Focused
+35,Arlee Luck,6,87,73,53,executive
+36,Bobette Conti,55,83,5,120,even-keeled
+37,Osmund Di Iorio,100,10,50,207,initiative
+38,Ossie Jiricka,21,42,4,260,background
+39,Tamarah Taffrey,87,99,93,116,analyzing
+40,Shantee Reisenberg,3,50,82,226,application
+41,Theressa Rustman,52,81,4,110,Triple-buffered
+42,Florette Harmer,100,27,35,281,Future-proofed
+43,Carlye Belchamber,63,56,8,148,help-desk
+44,Dore Grimster,84,60,78,135,forecast
+45,Hagan Allonby,52,21,21,105,archive
+46,Gracie Gammons,79,5,51,275,task-force
+47,Camille Fratczak,9,89,57,10,multi-tasking
+48,Buiron Chaize,53,36,23,288,Customer-focused
+49,Valentina Dacca,30,88,24,281,high-level
+50,Igor Aronowicz,31,42,20,54,Reverse-engineered
+51,Oren Gunthorpe,97,22,41,172,Total
+52,Anders Connold,14,72,74,248,structure
+53,Farrel Valentinetti,28,81,8,231,directional
+54,Stefania Orringe,25,38,64,115,conglomeration
+55,Hamnet Wilcock,82,87,47,140,exuding
+56,Georgianna Puckrin,29,88,6,99,success
+57,Tulley Limpenny,52,24,60,144,Upgradable
+58,Yuma Clink,45,95,52,5,static
+59,Payton Kimmings,79,93,82,299,Horizontal
+60,Nanice Sussans,68,57,81,280,fresh-thinking
+61,Dennison Meadmore,61,68,70,51,Proactive
+62,Mendy Lethcoe,57,80,39,161,client-server
+63,Ruperta Feighney,39,88,39,221,Enterprise-wide
+64,Kathye Burtonshaw,47,30,44,79,concept
+65,Moore Yurlov,84,86,68,83,homogeneous
+66,Phelia Grenville,26,7,88,46,dedicated
+67,Sibel Bruggeman,6,46,60,48,5th generation
+68,Netty Faithfull,47,23,59,228,instruction set
+69,Hendrik Josifovitz,30,90,14,203,Optimized
+70,Madlin Stirland,70,46,70,199,project
+71,Mark Schwandermann,31,33,15,15,impactful
+72,Dre Clear,82,28,73,201,holistic
+73,Harmony Overstall,88,0,59,91,groupware
+74,Douglass Broomhead,70,23,25,92,next generation
+75,Aleksandr MacLice,3,69,45,131,Team-oriented
+76,Innis Gatcliff,94,39,35,224,Configurable
+77,Reeta Giacobbo,32,27,13,114,website
+78,Jeramie Probate,89,25,18,99,web-enabled
+79,Grata Domenichini,25,23,56,203,regional
+80,Rhoda Mothersole,83,31,3,221,human-resource
+81,Reider Grodden,8,14,85,1,infrastructure
+82,Salome Eckert,70,95,44,111,Digitized
+83,Clywd Dewhurst,96,90,5,217,value-added
+84,Christie Caruth,63,5,38,30,Front-line
+85,Giustina Lethbury,95,23,57,206,3rd generation
+86,Erin Buesden,93,88,98,144,Business-focused
+87,Tim Munnery,4,14,16,122,Exclusive
+88,Philippa Rennicks,83,10,56,162,Networked
+89,Chandra Claremont,17,93,20,136,logistical
+90,Karlee Hardisty,89,13,30,149,modular
+91,Derrik Tampen,93,42,11,99,directional
+92,Charlean Wincer,88,98,2,26,conglomeration
+93,Rustin Lillico,34,39,91,240,installation
+94,Alair Zohrer,65,61,24,193,firmware
+95,Norma Cossom,91,3,20,92,Sharable
+96,Lula Yarrow,98,96,92,99,foreground
+97,Jasmin Raddish,22,91,81,134,bottom-line
+98,Benton Rittelmeyer,88,48,97,187,secured line
+99,Gardener Deppen,72,75,2,262,functionalities
+100,Al Clamp,35,6,63,20,real-time
