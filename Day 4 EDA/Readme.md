@@ -41,4 +41,7 @@
 ## Tools used for visualization
 1. Matplotlib
 2. Seaborn
+
+### Note
+Use https://mockaroo.com/ to generate dummy data
     
