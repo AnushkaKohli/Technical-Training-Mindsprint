@@ -98,6 +98,10 @@ java -jar jenkins.war
     }
     ```
 
+    **Note:**
+    1. SpringBoot application is running on port 8082 and the container is running on port 9092.
+    2. SpringBoot application created by the instructor is used in this pipeline - [https://github.com/sonam-niit/springproject.git](https://github.com/sonam-niit/springproject.git).
+
 6. Click "Save" button.
 
 ## Step 3: Running the job
