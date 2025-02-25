@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-service
+spec:
+  selector:
+    app: nginx # label of your pod
+  ports:
+    - protocol: TCP
+      port: 80 # Host post
+      targetPort: 80 # Container port - internal port used by container
+      nodePort: 30007  #  Service port - This port can be any valid port within the NodePort range
+  type: NodePort
